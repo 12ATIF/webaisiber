@@ -1,5 +1,0 @@
-NODE_ENV: production
-FIREBASE_PROJECT_ID: webaicyber
-GEMINI_API_KEY: AIzaSyBBAQuMtermkl2_6MGYx8slkWpWtQv8Crk
-FIREBASE_CLIENT_EMAIL: firebase-adminsdk-fbsvc@webaicyber.iam.gserviceaccount.com
-ALLOWED_ORIGIN: https://webaisiber.vercel.app,http://localhost:5173,http://localhost:5174
