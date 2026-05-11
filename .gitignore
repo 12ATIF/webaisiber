@@ -30,3 +30,4 @@ server/.env
 server/.env.*
 server/serviceAccountKey.json
 *.serviceAccountKey.json
+cloudrun-env.yaml
