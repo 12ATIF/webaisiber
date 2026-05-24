@@ -26,6 +26,7 @@ dist-ssr
 # Secrets & environment variables
 .env
 .env.*
+!.env.production
 server/.env
 server/.env.*
 server/serviceAccountKey.json
